@@ -1,6 +1,6 @@
 # SE-LAB
 Goals of this software:
-1. Build a software for hotel management
+  uild a software for hotel management
 
 Business objectives: building management systems for the following main subjects:
 1. Manager: manage information about rooms and hotel, create and check the report.
