@@ -1,4 +1,4 @@
-# SE-LAB
+# SE-DAY7-LAB
 Goals of this software:
   Build a software for Hotel Management
 
