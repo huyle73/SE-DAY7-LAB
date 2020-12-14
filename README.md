@@ -6,3 +6,6 @@
 3. **Receptionist**: deal directly with customers, book a room or cancel a booking, checkin, checkout and pay the customers.
 4. **Clients**: book a room or cancel a booking, checkin, checkout and pay the customers.
 
+
+[Use-case diagram of this software](https://github.com/huyle73/SE-DAY7-LAB/blob/main/use_cases_diagram.png?raw=true)
+
